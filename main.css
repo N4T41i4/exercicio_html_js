@@ -1,0 +1,10 @@
+*{
+ font-family:Arial,Serif;
+ text-align:center;
+}
+#formulario{
+    padding:300px;
+}
+button{
+    margin-top:10px;
+}
